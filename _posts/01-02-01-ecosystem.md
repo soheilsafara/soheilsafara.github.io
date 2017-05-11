@@ -6,7 +6,7 @@ anchor:  the-ecosystem
 
 ## The Ecosystem {#the_ecosystem}
 
-At the very minimum, you need to know how to use [Git](https://git-scm.com/) and [Composer](https://getcomposer.org/). Though not required, it is better that you have an account on [GitHub.com](https://github.com/) as it is where all the code and its' dependencies are hosted.
+تست فارسی very minimum, you need to know how to use [Git](https://git-scm.com/) and [Composer](https://getcomposer.org/). Though not required, it is better that you have an account on [GitHub.com](https://github.com/) as it is where all the code and its' dependencies are hosted.
 
 For local development, you’ll need to have at least [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) installed. This is used by [Homestead](https://laravel.com/docs/5.2/homestead) (a special vagrant box made for running Laravel apps). Although you can use the traditional WAMP/MAMP/XAMPP stack, those are not officially supported, thus you might have hard time down the road.
 
