@@ -2,9 +2,9 @@
   
 _توجه : بیشتر اجزا ، طرح کلی و قالب این وب سایت از سایت اصلی [PHP : The Right Way](http://www.phptherightway.com/)   قرض گرفته شده( فورک شده کلمه صحیح تری است ).تمامی اعتبار و ارزش این سایت به [مشارکت کنندگان اصلی](https://github.com/codeguy/php-the-right-way/graphs/contributors) داده میشود ._
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : Best Practices aims to put together all the resources and best practices in using the Laravel Framework.
+این سایت به عنوان یک راهنما برای کسانی است که  از فریم ورک لاراول که توسط  Taylor Otwell و مشارکت کنندگان آن استفاده می کنند. لاراول : به بهترین روش با هدف قرار دادن با هم تمام منابع و بهترین شیوه ها برای استفاده از فریم ورک لاراول ساخته شده است.
 
-Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but coud be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+فریمورک لاراول در مورد اینکه کجا و چگونه کلاس های خود را تعریف می کنید سختگیری نمی کند چون می توان آنها را به وسیله composer  لود کرد. این یک تیغ دو لبه است – برای توسعه دهندگان پیشرفته سودمند است اما برای مبتدیان کسانی که سعی در مهندسی معکوس کد ها موجود دارند گیج کننده است.اینکه می توانید هر چیزی را هر جایی قرار دهید خوب است اما گاهی اوقات بعضی روش ها بهتر از دیگر روش ها هستند و این همان هدف ماست. این سایت سعی می کند با جمع آوری بهترین راه ها ، ابزار و روش ها  به طور یکسان به درد تازه کار ها و توسعه دهندگان بخورد.
 
 This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
