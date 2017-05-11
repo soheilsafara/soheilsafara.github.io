@@ -1,6 +1,6 @@
-# Welcome
-
-_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
+# خوش آمدید
+  
+_توجه : بیشتر اجزا ، طرح کلی و قالب این وب سایت از سایت اصلی [PHP : The Right Way](http://www.phptherightway.com/)   قرض گرفته شده( فورک شده کلمه صحیح تری است ).تمامی اعتبار و ارزش این سایت به [مشارکت کنندگان اصلی](https://github.com/codeguy/php-the-right-way/graphs/contributors) داده میشود ._
 
 This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : Best Practices aims to put together all the resources and best practices in using the Laravel Framework.
 
